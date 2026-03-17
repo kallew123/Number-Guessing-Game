@@ -20,3 +20,10 @@ The player must guess a randomly generated number within a limited number of att
 - Functions
 - Exception handling (`try/except`)
 - User input handling
+
+---
+
+## 👨‍💻 Desenvolvido por
+- Kallew123
+
+---
